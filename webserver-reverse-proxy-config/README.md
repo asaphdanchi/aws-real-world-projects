@@ -36,5 +36,4 @@ sudo a2enmod
 sudo a2enmod
 ```
 
-### Congratulations Your Web Server Proxy Has Been Configured
-
+### Congratulations Your Web Server Proxy Has Been Configured successfully
